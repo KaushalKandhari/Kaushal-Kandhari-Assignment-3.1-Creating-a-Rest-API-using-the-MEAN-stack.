@@ -1,0 +1,2 @@
+# Kaushal-Kandhari-Assignment-3.1-Creating-a-Rest-API-using-the-MEAN-stack.
+We have created a Mongo DB in the name of cricket.json in Unit 2. Now we try to connect the Mongo DB with the server we have created in unit 1.After installing the express, bodyparser, cors, and mongoose packages,  we give the following instructions to create a restful API and connect it to the cricket Mongo DB file, we created in the earlier unit.
